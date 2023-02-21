@@ -1,0 +1,19 @@
+﻿Variable_dependent,Estimate,SE,t value,p,p adjusted
+constructive criticism,0.002,0.0012,1.688,0.092,1
+criticism,-0.0018,0.0007,-2.584,0.01,0.18
+flattery,0.0012,0.0006,1.904,0.057,1
+indirect language,-0.0002,0.0003,-0.784,0.434,1
+self deprecation,0.0003,0.0002,1.719,0.086,1
+threat,0.0004,0.0003,1.16,0.247,1
+historical example,-0.0009,0.0009,-1.1,0.272,1
+historical example with outcome,-0.0011,0.0006,-1.915,0.056,1
+analogy,-0.0039,0.001,-3.909,0.0001,0.0018
+auspicious/inauspicious sign,-0.0016,0.0005,-3.124,0.0019,0.0342
+tradition,-0.0012,0.0007,-1.816,0.07,1
+morality,-0.0003,0.0005,-0.542,0.588,1
+hearsay,-0.0008,0.0004,-2.175,0.03,0.54
+proverb,0.0002,0.0001,1.465,0.143,1
+remark,0,0.0001,0.266,0.79,1
+authoritative text,-0.0009,0.0003,-3.141,0.0018,0.0324
+information,0.0032,0.0015,2.115,0.0347,0.6246
+cost/benefit analysis,-0.0024,0.0017,-1.425,0.154,1
